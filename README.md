@@ -1,7 +1,6 @@
-### Hi, I'm Zijun He (Akivian) 👋
+# Hi, I'm Zijun He (Akivian) 👋
 
 我是一名就读于北京航空航天大学（BUAA）软件工程专业的本科生。主要关注 Agent Eval & Harness、大模型后训练、强化学习与 UE5 / Blender 游戏开发。
----
 
 ## Experience
 
@@ -9,10 +8,10 @@
 
 ## Projects
 
-- 2026.01 – 2026.10｜**[DevHound](https://devhound2027.github.io/DevHound/)**：基于历史决策与开发者认知需求的仓库级问答智能体与评测基准
-- 2025.11 – 2026.06｜**[Umvili](https://github.com/Akivian/Umvili)**：基于 PyTorch 与 Pygame 的多智能体强化学习沙盘评测平台（冯如杯创意赛道一等奖）
-- 2026.11 – 至今｜**[AutoGKD](https://github.com/Akivian/AutoGKD)**：基于 GKD 的移动端自动化 Agent Harness
-- 2026｜**[Principia-AI](https://github.com/Akivian/Principia-AI)**：大模型后训练算法（PPO / GRPO / DPO）数学推导笔记
+- 2026.01 – 2026.10｜[**DevHound**](https://devhound2027.github.io/DevHound/)：基于历史决策与开发者认知需求的仓库级问答智能体与评测基准
+- 2025.11 – 2026.06｜[**Umvili**](https://github.com/Akivian/Umvili)：基于 PyTorch 与 Pygame 的多智能体强化学习沙盘评测平台（冯如杯一等奖）
+- 2026.11 – 至今｜[**AutoGKD**](https://github.com/Akivian/AutoGKD)：基于 GKD 的移动端自动化 Agent Harness
+- 2026｜[**Principia-AI**](https://github.com/Akivian/Principia-AI)：大模型后训练算法（PPO / GRPO / DPO）数学推导笔记
 
 ## Interests
 
