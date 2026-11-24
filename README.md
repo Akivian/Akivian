@@ -1,4 +1,4 @@
-# Hi, I'm Zijun He (Akivian) 👋
+# Hi, I'm Akivian 👋
 
 我是一名就读于北京航空航天大学（BUAA）软件工程专业的本科生。主要关注 Agent Eval & Harness、大模型后训练、强化学习与 UE5 / Blender 游戏开发。
 
